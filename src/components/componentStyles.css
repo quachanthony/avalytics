@@ -1,0 +1,41 @@
+#team-stats {
+    align-content: center;
+    text-align: center;
+}
+#team-stats-table{
+    display: flex;
+    justify-content: center;
+}
+
+#skater-stats {
+    display: flex;
+    justify-content: center;
+
+}
+#player-stats {
+    display: flex;
+    justify-content: center;
+
+}
+#goalie-stats {
+    display: flex;
+    justify-content: center;
+
+}
+
+#top-performers {
+    display: flex;
+    justify-content: center;
+}
+
+.cards {
+    padding: 30px;
+}
+
+.card-container {
+    align-items: center;
+    text-align: center;
+}
+
+
+
